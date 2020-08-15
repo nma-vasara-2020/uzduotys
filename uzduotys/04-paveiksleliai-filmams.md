@@ -1,4 +1,4 @@
-# 4. Filmų paveikslėlių užkrovimas
+# 4. Paveikslėliai filmams
 ## Užduotis
 Užkrauti filmo paveikslėlius (backdrop) iš interneto. Turėkite omeny, kad kartais filmas neturi paveikskėlio, tad tokiu atveju tiesiog gražinkite vienspalvį backgroundą. 
 
