@@ -9,7 +9,7 @@ Pasižaiskime su Flutter widgetais Užpildykite `AboutPage` informacija apie NMA
 ## Rezultatas
 Nėra didelio skirtumo, kaip atrodo svarbiausia, kad pabandytumėte skirtingus Flutter platformos Widgetus pvz: `Column`, `Row`, `Image.asset`, `Text`, `Padding`, `Icon`, `RaisedButton`, `RaisedButton.icon`. Taip pat svarbu suprasti, kokiu būdu vieni widgetai yra konstruojami iš kitų widgetų. 
 
-<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/1-completed-task.png" width="300">
+<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/2-completed-task.png" width="300">
 
 ## Naudinga informacija
 - Kaip konstruojama widgetas ir kitų widgetų https://flutter.dev/docs/development/ui/layout
