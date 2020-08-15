@@ -1,5 +1,5 @@
 # 2. Everything is a widget
-
+Pagrindinis Flutter principas
 > Everything is a widget
 
 
