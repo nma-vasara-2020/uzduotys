@@ -1,13 +1,11 @@
-# 6.AppBaro pavadinimas besikeičiantis priklausomai nuo pasirinkto tabo
+# 7.Bibliotekų pridėjimas
+Pasinaudokime kitų žmonių parašytu kodu ir išmokime pridėti bibliotekas. Pridėkime `Share` funkcionalumą. 
 
 ## Užduotis
-Pasinaudoti žinios apie StatefulWidget ir pakeitus tabą pakeisti programėlės AppBaro pavadinimą. 
+Pridėkite biblioteką https://pub.dev/packages/share ir paspaudus ant `share` mygtuko pasidalinkite filmu su draugais. 
 
 ## Rezultatas
-<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/6-completed-task.gif" width="300">
+<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/7-completed-task.gif" width="300">
 
 ## Naudinga informacija
-- Adding interactivity to your Flutter app https://flutter.dev/docs/development/ui/interactive
-
-## Papildoma informacija
-- How Stateful Widgets Are Used Best - Flutter Widgets 101 https://www.youtube.com/watch?v=AqCMFXEmf3w
+- Using packages https://flutter.dev/docs/development/packages-and-plugins/using-packages
