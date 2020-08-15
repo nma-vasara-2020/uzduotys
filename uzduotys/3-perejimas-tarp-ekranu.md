@@ -7,7 +7,7 @@ Padaryti, kad paspaudus ant filmo patektume į `MovieDetailsPage`. Nepamiršk pe
 
 ## Rezultatas
 
-<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/3-completed-task.png" width="300">
+<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/3-completed-task.gif" width="300">
 
 ## Naudinga informacija
 - Navigate with named routes
