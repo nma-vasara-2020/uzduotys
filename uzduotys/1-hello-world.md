@@ -25,13 +25,13 @@ Ar pameni savo pirmąjį C++ Hello world ? Savo kelionę panašiai pradėsime ir
 1. Įsidėti projektą iš GitHub repository į Android Studio https://code.tutsplus.com/tutorials/working-with-git-in-android-studio--cms-30514
 1. Sėkmingai pasileisti mobiliąją programėlę. Pasileidę turėtumėte matyti tokį vaizdą.
 
-![Application just started](https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/1-application-just-started.png)
+<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/1-application-just-started.png" width="300">
 
 ## Užduotis
 Pakeisti matomą pavadinimą AppBar'e iš "Hello world" į "Movies". 
 
 ## Rezultatas
-![Task completed](https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/1-hello-world-completed.png)
+<img src="https://raw.githubusercontent.com/nma-vasara-2020/uzduotys/master/uzduotys/screenshots/1-hello-world-completed.png" width="300">
 
 ## Papildoma informacija
 - Greitas gidas apie Android Studio ir Flutter https://flutter.dev/docs/development/tools/android-studio
