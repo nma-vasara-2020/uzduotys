@@ -16,6 +16,8 @@ Nėra didelio skirtumo, kaip atrodo svarbiausia, kad pabandytumėte skirtingus F
 - Image https://www.youtube.com/watch?v=7oIAs-0G4mw
 - Container https://www.youtube.com/watch?v=c1xLMaTUWCY
 - Padding https://www.youtube.com/watch?v=oD5RtLhhubg
+- Widget catalog https://flutter.dev/docs/development/ui/widgets
+- Flutter widget index https://flutter.dev/docs/reference/widgets
 
 
 ## Papildoma informacija
